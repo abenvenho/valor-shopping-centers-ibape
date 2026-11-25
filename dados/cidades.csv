@@ -1,0 +1,90 @@
+cidade,uf,loc,criterio,amostra
+São Paulo,SP,2,Capital paulista,16
+Belford Roxo,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Cachoeiras de Macacu,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Duque de Caxias,RJ,1,Região Metropolitana do Rio de Janeiro,1
+Guapimirim,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Itaboraí,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Itaguaí,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Japeri,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Magé,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Maricá,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Mesquita,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Nilópolis,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Niterói,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Nova Iguaçu,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Paracambi,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Petrópolis,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Queimados,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Rio Bonito,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Rio de Janeiro,RJ,1,Capital fluminense,6
+Seropédica,RJ,1,Região Metropolitana do Rio de Janeiro,0
+São Gonçalo,RJ,1,Região Metropolitana do Rio de Janeiro,0
+São João de Meriti,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Tanguá,RJ,1,Região Metropolitana do Rio de Janeiro,0
+Arujá,SP,1,Região Metropolitana de São Paulo,0
+Barueri,SP,1,Região Metropolitana de São Paulo,2
+Biritiba Mirim,SP,1,Região Metropolitana de São Paulo,0
+Caieiras,SP,1,Região Metropolitana de São Paulo,0
+Cajamar,SP,1,Região Metropolitana de São Paulo,0
+Carapicuíba,SP,1,Região Metropolitana de São Paulo,0
+Cotia,SP,1,Região Metropolitana de São Paulo,0
+Diadema,SP,1,Região Metropolitana de São Paulo,0
+Embu das Artes,SP,1,Região Metropolitana de São Paulo,0
+Embu-Guaçu,SP,1,Região Metropolitana de São Paulo,0
+Ferraz de Vasconcelos,SP,1,Região Metropolitana de São Paulo,0
+Francisco Morato,SP,1,Região Metropolitana de São Paulo,0
+Franco da Rocha,SP,1,Região Metropolitana de São Paulo,0
+Guararema,SP,1,Região Metropolitana de São Paulo,0
+Guarulhos,SP,1,Região Metropolitana de São Paulo,1
+Itapecerica da Serra,SP,1,Região Metropolitana de São Paulo,0
+Itapevi,SP,1,Região Metropolitana de São Paulo,0
+Itaquaquecetuba,SP,1,Região Metropolitana de São Paulo,0
+Jandira,SP,1,Região Metropolitana de São Paulo,0
+Juquitiba,SP,1,Região Metropolitana de São Paulo,0
+Mairiporã,SP,1,Região Metropolitana de São Paulo,0
+Mauá,SP,1,Região Metropolitana de São Paulo,0
+Mogi das Cruzes,SP,1,Região Metropolitana de São Paulo,0
+Osasco,SP,1,Região Metropolitana de São Paulo,1
+Pirapora do Bom Jesus,SP,1,Região Metropolitana de São Paulo,0
+Poá,SP,1,Região Metropolitana de São Paulo,0
+Ribeirão Pires,SP,1,Região Metropolitana de São Paulo,0
+Rio Grande da Serra,SP,1,Região Metropolitana de São Paulo,0
+Salesópolis,SP,1,Região Metropolitana de São Paulo,0
+Santa Isabel,SP,1,Região Metropolitana de São Paulo,0
+Santana de Parnaíba,SP,1,Região Metropolitana de São Paulo,0
+Santo André,SP,1,Região Metropolitana de São Paulo,1
+Suzano,SP,1,Região Metropolitana de São Paulo,0
+São Bernardo do Campo,SP,1,Região Metropolitana de São Paulo,1
+São Caetano do Sul,SP,1,Região Metropolitana de São Paulo,1
+São Lourenço da Serra,SP,1,Região Metropolitana de São Paulo,0
+Taboão da Serra,SP,1,Região Metropolitana de São Paulo,1
+Vargem Grande Paulista,SP,1,Região Metropolitana de São Paulo,0
+Rio Branco,AC,0,Demais cidades (há transação na amostra),1
+Maceió,AL,0,Demais cidades (há transação na amostra),2
+Manaus,AM,0,Demais cidades (há transação na amostra),1
+Feira de Santana,BA,0,Demais cidades (há transação na amostra),1
+Salvador,BA,0,Demais cidades (há transação na amostra),5
+Vila Velha,ES,0,Demais cidades (há transação na amostra),2
+São Luis,MA,0,Demais cidades (há transação na amostra),1
+Belo Horizonte,MG,0,Demais cidades (há transação na amostra),4
+Uberaba,MG,0,Demais cidades (há transação na amostra),2
+Uberlândia,MG,0,Demais cidades (há transação na amostra),2
+Cuiabá,MT,0,Demais cidades (há transação na amostra),1
+Belém,PA,0,Demais cidades (há transação na amostra),1
+Recife,PE,0,Demais cidades (há transação na amostra),1
+Curitiba,PR,0,Demais cidades (há transação na amostra),3
+Volta Redonda,RJ,0,Demais cidades (há transação na amostra),1
+Caxias do Sul,RS,0,Demais cidades (há transação na amostra),1
+Novo Hamburgo,RS,0,Demais cidades (há transação na amostra),3
+Porto Alegre,RS,0,Demais cidades (há transação na amostra),2
+Araraquara,SP,0,Demais cidades (há transação na amostra),2
+Bauru,SP,0,Demais cidades (há transação na amostra),1
+Campinas,SP,0,Demais cidades (há transação na amostra),2
+Itupeva,SP,0,Demais cidades (há transação na amostra),1
+Jundiaí,SP,0,Demais cidades (há transação na amostra),1
+Piracicaba,SP,0,Demais cidades (há transação na amostra),1
+Presidente Prudente,SP,0,Demais cidades (há transação na amostra),1
+Ribeirão Preto,SP,0,Demais cidades (há transação na amostra),2
+Sorocaba,SP,0,Demais cidades (há transação na amostra),3
+Palmas,TO,0,Demais cidades (há transação na amostra),1
